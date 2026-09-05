@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Semana4</string>
+
+    <string name="titulo_widgets">Widgets</string>
+    <string name="titulo_containers">Containers</string>
+
+    <string name="label_fecha_seleccionada">Fecha seleccionada: %1$s</string>
+    <string name="label_progreso">Progreso: %1$d%%</string>
+    <string name="desc_rating_bar">Calificación del producto</string>
+    <string name="label_calificacion">Calificación: %1$.1f de 5</string>
+    <string name="label_barra_segmento">Volumen: %1$d</string>
+    <string name="label_barra_segmento_discreta">Nivel: %1$d</string>
+
+    <string name="encabezado_tabla">Registro de productos</string>
+    <string name="col_id">ID</string>
+    <string name="col_nombre">Nombre</string>
+    <string name="col_apellido">Apellido</string>
+    <string name="col_foto">Foto</string>
+
+    <string name="dato_id_1">1</string>
+    <string name="dato_nombre_1">Matías</string>
+    <string name="dato_apellido_1">Muñoz</string>
+
+    <string name="dato_id_2">2</string>
+    <string name="dato_nombre_2">Camila</string>
+    <string name="dato_apellido_2">Rojas</string>
+
+    <string name="desc_foto_producto">Foto del producto</string>
+</resources>
